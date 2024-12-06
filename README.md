@@ -1,1 +1,3 @@
-# Number-guessing-
+Number guessing game
+<br>
+using Html, Css and javaScrip
